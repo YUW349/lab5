@@ -12,3 +12,24 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+.fakeclass{
+	 margin-right: 20px;
+	max-width : 250px;
+}
+.friends {
+     margin-right: 20px;
+	max-width : 250px;
+}
+
+.img-rounded {
+
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+}
+
+.friends h3.active {
+    color: #CC00AA;
+}
